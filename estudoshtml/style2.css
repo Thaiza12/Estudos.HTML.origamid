@@ -1,0 +1,15 @@
+div{
+    background: #aaa;
+    width: 140px;
+    height: 80px;
+    padding: 10px;
+    border: 10px solid green;
+    margin: 30px;
+
+}
+body{
+    margin: 0px;
+}
+h1{
+    background: #eee;
+}
