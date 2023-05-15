@@ -1,0 +1,31 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    justify-content:center;
+  }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 0%;
+}
+a{
+    background: #a8f;
+    color: #103;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    
+}
+.item{
+    background: #f1f1f1;
+    border: 1px solid #e7e7e7;
+    margin: 20px;
+    border-radius: 4px;
+    padding: 20px;
+    display: grid;
+}
